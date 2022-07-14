@@ -34,3 +34,7 @@ Figure 1, Screenshot for 2017 code runtime.
 ![Screenshot2](https://github.com/Elfreda2019/VBA_Challenge/blob/main/Resources/VBA_Challenge_2018.png)
 
 Figure 2, Screenshot for 2018 code runtime
+
+#### Results 
+From our analysis all the stocks had positive returns with the exception of stocks with ticker TERP who had a negative return 
+for the year 2017.  However same cannot be said about 2018. In 2018 most stocks had negative returns meaning their opening prices at the beginning of the year were higher than their closing prices by the end of the year with the exception of ENPH and RUN ticker stocks which saw an increase in prices making them have positive returns.
