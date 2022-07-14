@@ -23,4 +23,14 @@ End If
 Where tickerVolumes was adding down the volumes of all the various groups of tickers. And tickerIndex was the indicator of the index of the particular ticker being worked on.
 
 #### Performance
-The time run of our original code was for the year 2017 was 0.2851562 secs and that for 2018 was 0.2890625. The runtime for both years were very similar. However after the refactoring the runtime reduced to 0.078125 for both 2017 and 2018. Screenshots are shown in Figure 1 for 2017 and Figure 2 for 2018 displaying the runtimes. 
+The time run of our original code was for the year 2017 was 0.2851562 secs and that for 2018 was 0.2890625. The runtime for both years were very similar. 
+
+However after the refactoring the runtime reduced to 0.078125 for both 2017 and 2018. Screenshots are shown in Figure 1 for 2017 and Figure 2 for 2018 displaying the runtimes: 
+
+![Screenshot1](https://github.com/Elfreda2019/VBA_Challenge/blob/main/Resources/VBA_Challenge_2017.png)
+
+Figure 1, Screenshot for 2017 code runtime.
+
+![Screenshot2](https://github.com/Elfreda2019/VBA_Challenge/blob/main/Resources/VBA_Challenge_2018.png)
+
+Figure 2, Screenshot for 2018 code runtime
