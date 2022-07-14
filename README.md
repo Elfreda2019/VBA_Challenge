@@ -38,3 +38,10 @@ Figure 2, Screenshot for 2018 code runtime
 #### Results 
 From our analysis all the stocks had positive returns with the exception of stocks with ticker TERP who had a negative return 
 for the year 2017.  However same cannot be said about 2018. In 2018 most stocks had negative returns meaning their opening prices at the beginning of the year were higher than their closing prices by the end of the year with the exception of ENPH and RUN ticker stocks which saw an increase in prices making them have positive returns.
+
+## Summary
+Refactoring codes are usually expected to improve clarity and efficiency in your original code but when you do not understand the original code it will be difficult to refactor.
+
+Our refactored code run faster than our original code and had less lines of code making it very efficient even though our original code was also relatively fast. However if we happen to be analysing millions of data, our original code will be very slow.
+
+
